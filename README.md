@@ -6,7 +6,7 @@
 
 2. Image overlays Card. 
 
-3. Kitchen sink card in the smaller right column with two links. I removed the image.
+3. Kitchen sink card in the smaller right column. 
 
 
 
