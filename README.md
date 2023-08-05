@@ -1,3 +1,16 @@
+# m14-hw14-Ellingson-Laura
+
+## Bootstrap components used. 
+
+1. Live Demo Modal renamed to Design Trivia.
+
+2. Image overlays Card. 
+
+3. Kitchen sink card in the smaller right column with two links. I removed the image.
+
+
+
+
 # Assignment 14: Use a CSS and JavaScript Framework to Add Interactivity to a Website
 
 (**NOTE:** View a rendered version of this file in VS Code with `ctrl-shift-v` or `cmd-shift-v`)
